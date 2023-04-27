@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "167796720489",
+    "project_id": "community-on-demand-2c801",
+    "storage_bucket": "community-on-demand-2c801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167796720489:android:5958e2131937f6b85f73f8",
+        "android_client_info": {
+          "package_name": "com.cod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167796720489-sk8bop8q7gf8j11lv9l5he05c223j4fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cod",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "167796720489-0lra4bldgi0nngf0atlj0baesfacm99r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs_6HR-0c49_x1G0haGxnMHAVZYzqkAuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167796720489-0lra4bldgi0nngf0atlj0baesfacm99r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167796720489-bf4jo8ogktgv24bo8ojfmtjec0to0t0g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.nextstepsyep.cod"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
