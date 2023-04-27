@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>167796720489-bf4jo8ogktgv24bo8ojfmtjec0to0t0g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.167796720489-bf4jo8ogktgv24bo8ojfmtjec0to0t0g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>167796720489-ficoqr7d8651d9avb1jgk5ojfrth9m2c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgGeR4j3togmnh3fqIirYGffOyG-UrVyo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>167796720489</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.nextstepsyep.cod</string>
+	<key>PROJECT_ID</key>
+	<string>community-on-demand-2c801</string>
+	<key>STORAGE_BUCKET</key>
+	<string>community-on-demand-2c801.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:167796720489:ios:c12f82bd38a7b84e5f73f8</string>
+</dict>
+</plist>
